@@ -4,4 +4,6 @@ OneDrive_2022-09-22/
 logs/
 .ipynb_checkpoints/
 processed_data.zip
-sducesinoisy/
+noisy_data/
+captionning_data/
+Untitled.ipynb
