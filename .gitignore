@@ -10,4 +10,5 @@ Untitled.ipynb
 test_data/
 weights/
 image_features.pkl
+tokenizer.pkl
 models/captioner.h5
