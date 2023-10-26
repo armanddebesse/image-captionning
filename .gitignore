@@ -7,3 +7,8 @@ processed_data.zip
 noisy_data/
 captionning_data/
 Untitled.ipynb
+test_data/
+weights/
+image_features.pkl
+tokenizer.pkl
+models/captioner.h5
